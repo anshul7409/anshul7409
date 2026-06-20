@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul7409&label=Profile%20views&color=0e75b6&style=flat" alt="anshul7409" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshul7409" alt="anshul7409" /></a> </p>
-
 - 🔭 Currently working as a **Data Engineer at Gojoko Technologies (Fintech)** — building scalable ETL/ELT pipelines, Lakehouse architectures, and production-grade data workflows on **Databricks, PySpark, and AWS**
 
 - 🏆 **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/434286be-10fd-4423-9139-0a3e6ddd303e#acc.VC5RxmIy)** — Delta Lake, Apache Spark, Delta Live Tables, Unity Catalog, Data Governance, Performance Optimization
